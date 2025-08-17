@@ -437,19 +437,5 @@ sales_date date
 
 ---
 
-## Repository Structure
-```
-ch04-sql-assignment/
-├── README.md                 # This documentation
-├── sql-scripts/
-│   ├── section1-core.sql    # Core SQL concepts (Q1-Q5)
-│   ├── section2-advanced.sql # Advanced techniques (Q6-Q10)
-│   ├── section3-optimization.sql # Query optimization (Q11-Q12)
-│   └── section4-modeling.sql # Data modeling (Q13-Q15)
-└── schema/
-    ├── normalized-schema.sql # 3NF database design
-    ├── star-schema.sql      # Data warehouse design
-    └── denormalized-reporting.sql # Reporting optimization
-```
 
 This assignment demonstrates comprehensive SQL skills from basic querying to advanced database design and optimization techniques essential for modern data management and analytics.
